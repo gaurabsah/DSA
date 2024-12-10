@@ -1,4 +1,4 @@
-package com.dsa.fibonacci.recursion;
+package com.dsa.recursion;
 
 // 0 1 1 2 3 5 8 13 21 ...
 // find the number at nth index (0 indexing)

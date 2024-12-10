@@ -1,4 +1,4 @@
-package com.dsa.fibonacci;
+package com.dsa.iterative;
 
 // print the fibonacci number upto nth position 
 public class FibonacciNumber {

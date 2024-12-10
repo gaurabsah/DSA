@@ -1,4 +1,4 @@
-package com.dsa.SumOfNaturalNumber.recursion;
+package com.dsa.recursion;
 
 public class SumOfNaturalNumber {
 

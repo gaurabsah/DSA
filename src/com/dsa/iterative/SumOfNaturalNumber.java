@@ -1,4 +1,4 @@
-package com.dsa.SumOfNaturalNumber;
+package com.dsa.iterative;
 
 public class SumOfNaturalNumber {
 
