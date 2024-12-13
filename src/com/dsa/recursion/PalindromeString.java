@@ -7,7 +7,7 @@ public class PalindromeString {
 	}
 
 	static boolean isPalindromeHelper(String s, int l, int r) {
-		if (l > r) {
+		if (l >= r) {
 			return true;
 		}
 
