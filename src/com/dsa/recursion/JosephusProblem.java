@@ -1,5 +1,9 @@
 package com.dsa.recursion;
 
+/*
+ * n is the number of players
+ * k is the step
+ */
 public class JosephusProblem {
 
 	static int josephus(int n, int k) {
